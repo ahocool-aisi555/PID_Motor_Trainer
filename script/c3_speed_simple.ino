@@ -1,4 +1,6 @@
-
+// --- PID Motor trainer ---
+// by Nyoman Yudi Kurniawan
+// www.aisi555.com
 
 // Pin
 #define TACHO_PIN 3          // Pin untuk sensor tachometer (optocoupler)
