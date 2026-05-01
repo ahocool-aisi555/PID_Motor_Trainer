@@ -12,7 +12,7 @@
 // --- KONFIGURASI PENTING ---
 
 // ... (Deklarasi Variabel Global tetap sama)
-const char* ssid = "WifiGakSpesial";
+const char* ssid = "Nama Wifi";
 const char* password = "klengcinot";
 
 #define TACHO_PIN 3          
