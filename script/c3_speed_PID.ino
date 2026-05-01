@@ -8,7 +8,7 @@
 //#include "driver/ledc.h"
 
 // --- KONFIGURASI JARINGAN & PIN ---
-const char* ssid = "WesGakUsah";     // <<< GANTI INI
+const char* ssid = "Nama Wifi";     // <<< GANTI INI
 const char* password = "1234567890";   // <<< GANTI INI
 
 #define TACHO_PIN 3                      // Pin GPIO untuk input sensor Tacho
