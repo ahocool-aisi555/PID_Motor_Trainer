@@ -1,3 +1,7 @@
+// --- PID Motor trainer ---
+// by Nyoman Yudi Kurniawan
+// www.aisi555.com
+
 #include <WiFi.h>
 #include <ESPAsyncWebServer.h>
 #include "esp32-hal-timer.h" 
