@@ -16,8 +16,8 @@ Belajar konsep PID kontrol dengan menggunakan bahan yang ada di sekitar
 3. Transistor BD139 dan resistor 1K sebagai driver PWM motor
 4. Sensor photodiode atau modul jadi yang biasa dipake untuk counter / deteksi terhalang
 
-<img width="311" height="298" alt="enkoder" src="https://github.com/user-attachments/assets/65d98b17-c4e7-4a62-ad63-4aed5c82c7aa" />
-
+<img width="311" height="298" alt="enkoder" src="https://github.com/user-attachments/assets/65d98b17-c4e7-4a62-ad63-4aed5c82c7aa" /><br>
+5. Power supply 12 Volt untuk motor DC
 # Coding PID 
 
 Coding rumus PID ini full dibantu oleh AI chat bot, berikut potongannya :
@@ -96,3 +96,6 @@ void pidControl(void *pvParameters) {
 ```
 # Hasil Output di Web Browser
 
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/3ZN0tLfTw6U/0.jpg)]([https://www.youtube.com/watch?v=OqzBcb2V9yw](https://www.youtube.com/watch?v=3ZN0tLfTw6U))
+<br> Klik pada gambar untuk ke youtubenya <br>
+Praktek ini diajarkan di kelas Elektronika Daya - Teknik Listrik - Fak Vokasi Unesa Surabaya
