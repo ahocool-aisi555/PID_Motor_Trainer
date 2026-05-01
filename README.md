@@ -96,6 +96,7 @@ void pidControl(void *pvParameters) {
 ```
 # Hasil Output di Web Browser
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/3ZN0tLfTw6U/0.jpg)]([https://www.youtube.com/watch?v=OqzBcb2V9yw](https://www.youtube.com/watch?v=3ZN0tLfTw6U))
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/3ZN0tLfTw6U/0.jpg)](https://www.youtube.com/watch?v=3ZN0tLfTw6U)
+
 <br> Klik pada gambar untuk ke youtubenya <br>
 Praktek ini diajarkan di kelas Elektronika Daya - Teknik Listrik - Fak Vokasi Unesa Surabaya
