@@ -1,9 +1,13 @@
+// --- PID Motor trainer ---
+// by Nyoman Yudi Kurniawan
+// www.aisi555.com
+
 #include <WiFi.h>
 #include <ESPAsyncWebServer.h>
 #include "esp32-hal-timer.h" 
 
 // --- KONFIGURASI PENTING ---
-const char* ssid = "WifiGakSpesial";      // <<< GANTI INI
+const char* ssid = "Nama Wifi";      // <<< GANTI INI
 const char* password = "klengcinot";    // <<< GANTI INI
 
 #define PULSES_PER_ROTATION 13    // <<< GANTI INI
